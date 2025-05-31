@@ -5,7 +5,7 @@ Volunteer Matchmaker is an app designed to automatically match volunteers with o
 ### 📌 Features
 
 - Registration and structured storage of volunteer and organization data
-- Matching algorithm based on defined attrbutes
+- Matching algorithm based on defined attributes
 - Logging of system actions and errors
 
 ### 🛠️ Technologies used 
