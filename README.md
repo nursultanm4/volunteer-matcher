@@ -1,20 +1,20 @@
-### Volunteer Matchmaker
+## Volunteer Matchmaker
 
-Volunteer Matchmaker is an app designed to automatically match volunteers with organizations based on key criteria such as area of interest, age and preferences.
+Volunteer Matchmaker is an app designed to automatically match volunteers with organizations based on key criteria such as area of interest, age and preferences. This app is especially useful for students who seek for volunteering opportunities.
 
-#### 📌 Features
+### 📌 Features
 
 - Registration and structured storage of volunteer and organization data
 - Matching algorithm based on defined attrbutes
 - Logging of system actions and errors
 
-#### 🛠️ Technologies used 
+### 🛠️ Technologies used 
 
 - Python 3
 - PostgreSQL, pgadmin4
 - basic customtkinter for GUI
 
-#### 🚀 How to Run
+### 🚀 How to Run
 - Create a virtual environment and activate it
   - macOS & Linux `python3 -m venv venv` `.\venv\Scripts\Activate.ps1`
   - Windows `python -m venv venv`, `venv\Scripts\Activate`
